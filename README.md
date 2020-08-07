@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**PraveenKumarPalai/praveenkumarpalai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## PRAVEEN KUMAR PALAI
+### Software Engineer | Tech Enthusiast | Artist
+------
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on an a fullstack project
+- 🌱 I’m currently learning Unity
+- 👯 I’m looking to collaborate on any interesting project.
+- 🤔 I’m looking for help with Software Architecturing
+- 💬 Ask me about Javascript and Typescript
+- 📫 Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   Twitter – [@PraveenPalai](https://twitter.com/PraveenPalai) 
+   
+   Email – praveenkumarpalai@outlook.com
+
+- ⚡ Fun fact: Java or JavaScript ?
