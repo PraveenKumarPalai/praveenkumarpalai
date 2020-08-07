@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-## PRAVEEN KUMAR PALAI
-### Software Engineer | Tech Enthusiast | Artist
-------
-
 - 🔭 I’m currently working on an a fullstack project
 - 🌱 I’m currently learning Unity
 - 👯 I’m looking to collaborate on any interesting project.
